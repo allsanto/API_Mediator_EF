@@ -1,0 +1,12 @@
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.deps.json
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.dll
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Infra.pdb
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Domain.dll
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\bin\Debug\netcoreapp2.2\VemDeZap.Domain.pdb
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csproj.AssemblyReference.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.AssemblyInfoInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.AssemblyInfo.cs
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.csproj.CopyComplete
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.dll
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Infra\obj\Debug\netcoreapp2.2\VemDeZap.Infra.pdb

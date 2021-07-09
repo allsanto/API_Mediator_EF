@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\31 - Udemy - Curso DDD Metiator e EntityFrame\\VemDeZap\\VemDeZap.Domain\\VemDeZap.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Allan\\Google Drive\\PROJETOS\\31 - Udemy - Curso DDD Metiator e EntityFrame\\VemDeZap\\VemDeZap.Domain\\VemDeZap.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\31 - Udemy - Curso DDD Metiator e EntityFrame\\VemDeZap\\VemDeZap.Domain\\VemDeZap.Domain.csproj",
+        "projectName": "VemDeZap.Domain",
+        "projectPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\31 - Udemy - Curso DDD Metiator e EntityFrame\\VemDeZap\\VemDeZap.Domain\\VemDeZap.Domain.csproj",
+        "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allan\\Google Drive\\PROJETOS\\31 - Udemy - Curso DDD Metiator e EntityFrame\\VemDeZap\\VemDeZap.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "prmToolkit.NotificationPattern": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

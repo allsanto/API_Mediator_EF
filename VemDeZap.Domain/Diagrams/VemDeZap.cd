@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VemDeZap.Domain.Entities.Campanha">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Entities\Campanha.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VemDeZap.Domain.Entities.Contato">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="VemDeZap.Domain.Entities.Base.EntityBase" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="3.055" />
+        <Point X="8.75" Y="5.875" />
+        <Point X="5" Y="5.875" />
+        <Point X="5" Y="6.25" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Usuario" Type="VemDeZap.Domain.Entities.Usuario" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="7.188" />
+        <Point X="1.5" Y="7.188" />
+        <Point X="1.5" Y="5.761" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Entities\Contato.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VemDeZap.Domain.Entities.Envio">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="VemDeZap.Domain.Entities.Base.EntityBase" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="3.055" />
+        <Point X="8.75" Y="4.188" />
+        <Point X="11" Y="4.188" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Grupo" Type="VemDeZap.Domain.Entities.Grupo" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="3.75" />
+        <Point X="11.75" Y="0.75" />
+        <Point X="6.375" Y="0.75" />
+        <Point X="6.375" Y="1.189" />
+        <Point X="6" Y="1.189" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Contato" Type="VemDeZap.Domain.Entities.Contato" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="4.983" />
+        <Point X="11.75" Y="7.188" />
+        <Point X="5.75" Y="7.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAUAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Envio.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Campanha" />
+      <Property Name="Grupo" />
+      <Property Name="Contato" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VemDeZap.Domain.Entities.Grupo">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <AssociationLine Name="Usuario" Type="VemDeZap.Domain.Entities.Usuario" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="1.616" />
+        <Point X="1.5" Y="1.616" />
+        <Point X="1.5" Y="3.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Entities\Grupo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Usuario" />
+      <Property Name="Nicho" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VemDeZap.Domain.Entities.Usuario">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="VemDeZap.Domain.Entities.Base.EntityBase" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="3.055" />
+        <Point X="8.75" Y="3.625" />
+        <Point X="2.625" Y="3.625" />
+        <Point X="2.625" Y="4.359" />
+        <Point X="2.25" Y="4.359" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>Entities\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VemDeZap.Domain.Entities.Base.EntityBase">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Base\EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="VemDeZap.Domain.Enums.EnumNicho">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Enums\EnumNicho.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

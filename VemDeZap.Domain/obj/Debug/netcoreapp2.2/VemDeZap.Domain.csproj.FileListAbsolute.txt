@@ -1,0 +1,11 @@
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp2.2\VemDeZap.Domain.deps.json
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp2.2\VemDeZap.Domain.dll
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\bin\Debug\netcoreapp2.2\VemDeZap.Domain.pdb
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.Resources.MSG.resources
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.csproj.GenerateResource.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.AssemblyInfoInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.AssemblyInfo.cs
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.dll
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.pdb
+C:\Users\Allan\Google Drive\PROJETOS\31 - Udemy - Curso DDD Metiator e EntityFrame\VemDeZap\VemDeZap.Domain\obj\Debug\netcoreapp2.2\VemDeZap.Domain.csproj.AssemblyReference.cache
